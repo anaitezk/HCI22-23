@@ -13,4 +13,4 @@ The project is implemented in Greek language as well as the web interface.
 ### Contributors
 - **[Ezekelian Anait](https://github.com/anaitezk)**
 - **[Mallios Xristos-Ioannis](https://github.com/giannis-ml)**
-- **[Mazeras Antonis](https://github.com/sdi1400092)**
+- **[Mazeras Antonios](https://github.com/sdi1400092)**
