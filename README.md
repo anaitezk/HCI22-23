@@ -8,6 +8,8 @@ A team project included in the cource Human-Computer Interaction (https://www.di
 2. Redesign of the evaluated web interface by a)user scenarios with personas, b) Hierarchical Task Analysis, User Needs Analysis and Functional Specifications, c) Low fidelity wireframes, prototypes, and storyboards, and
 3. Web interface development using HTML,Javascript and CSS for front-end and PHP for back-end.
 
+The project is implemented in Greek language as well as the web interface. 
+
 ### Contributors
 - **[Ezekelian Anait](https://github.com/anaitezk)**
 - **[Mallios Xristos-Ioannis](https://github.com/giannis-ml)**
